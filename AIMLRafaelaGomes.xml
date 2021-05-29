@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0.1" encoding="UTF-8"?>
+
+
+<category>
+    <pattern> O que é Instagram? </pattern>
+
+    <template> nstagram é uma rede social de fotos para usuários de Android e iPhone. Basicamente se trata de um aplicativo gratuito que pode ser baixado e, a partir dele, é possível tirar fotos com o celular, aplicar efeitos nas imagens e compartilhar com seus amigos. <br>
+    fonte: https://canaltech.com.br/redes-sociais/o-que-e-instagram/
+    </template>
+</category>
+
+<a href="https://canaltech.com.br/redes-sociais/o-que-e-instagram/" target="_blank"> O que é Instagram? </a>
+
+<category>
+    <pattern> O que é Twitter? </pattern>
+
+    <template> O Twitter é uma rede social conhecida como microblog. Você pode publicar textos com até 140 caracteres – além de fotos, vídeos e links sobre o que você está fazendo, onde está, informações sobre o trânsito ou a sua opinião sobre um assunto. <br/>
+    fonte: https://www.techtudo.com.br/artigos/noticia/2012/02/o-que-e-twitter-e-para-que-serve.html
+    </template>
+</category>
+
+<a href="https://www.techtudo.com.br/artigos/noticia/2012/02/o-que-e-twitter-e-para-que-serve.html" target="_blank"> O que é Twitter? </a>
+
+<category>
+    <pattern> O que é Facebook? </pattern>
+
+    <template> O Facebook é gratuito para os usuários e gera receita proveniente de publicidade, incluindo banners e grupos patrocinados. Os usuários criam perfis que contêm fotos e listas de interesses pessoais, trocando mensagens privadas e públicas entre si e participantes de grupos de amigos.  <br/>
+    fonte: https://www.significados.com.br/facebook/
+    </template
+</category> 
+
+<a href="https://www.significados.com.br/facebook/" target="_blank"> O que é Facebook? </a>
+
+<category>
+    <pattern> O que é Spotify? </pattern>
+
+    <template> O Spotify é um serviço de streaming digital que dá acesso instantâneo a milhões de músicas, podcasts, vídeos e outros conteúdos de artistas de todo o mundo. <br/>
+    fonte: https://support.spotify.com/br/article/what-is-spotify/
+    </template?
+</category>
+
+<a href="https://support.spotify.com/br/article/what-is-spotify/" target="_blank"> O que é Spotify? </a>
+
+<category>
+    <pattern> O que é Netflix? </pattern>
+
+    <template> A Netflix é um serviço de streaming por assinatura que permite assistir a séries e filmes sem comerciais em um aparelho conectado à internet.  </br>
+    fonte: https://help.netflix.com/pt/node/412
+    <template>
+</category>
+
+<a href="https://help.netflix.com/pt/node/412" target
+
+
+
+
+
+
+</aiml>
